@@ -9,7 +9,7 @@ The purpose of this analysis is to understand how many employees are retiring by
 ### Retirement-Eligible Employee List
 - By forming the retirement_titles table, we were able to determine all employees eligible for retirement and how long they worked at each Pewlett-Hackard position over the course of their career.
 
-![](retirement_titles/.png)
+![](retirement_titles.png)
 
 ### Retirement-Eligible Employees by Most-Recent Role
 - Since some employees may have worked multiple positions at Pewlett-Hackard, the unique_titles table was created to show the eligible employees, but just what their most recent title is at retirement age.
