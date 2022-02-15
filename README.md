@@ -9,22 +9,22 @@ The purpose of this analysis is to understand how many employees are retiring by
 ### Retirement-Eligible Employee List
 - By forming the retirement_titles table, we were able to determine all employees eligible for retirement and how long they worked at each Pewlett-Hackard position over the course of their career.
 
-![](.png)
+![](retirement_titles/.png)
 
 ### Retirement-Eligible Employees by Most-Recent Role
 - Since some employees may have worked multiple positions at Pewlett-Hackard, the unique_titles table was created to show the eligible employees, but just what their most recent title is at retirement age.
 
-![](.png)
+![](unique_titles.png)
 
 ### Retirement-Eligible Employees by Position Title
 - To understand how many retiring employees are in each title, we created the retiring_titles table, which showed that a large majority of employees (roughly 70%) had a senior level position at time of retirement.
 
-![](.png)
+![](retiring_titles.png)
 
 ### Mentorship-Eligible Employee List
 - Finally, to understand employees that are eligible for mentorship eligibility, this required joining together tables across our analysis to see their title as well.  Just from an intial glance, we can see that most of the employees here hold senior titles (not surprising considering the majority of employees nearing retirement hold senior level role titles).
 
-![](.png)
+![](mentorship_eligibility.png)
 
 ## Summary
 
