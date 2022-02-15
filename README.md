@@ -17,7 +17,7 @@ The purpose of this analysis is to understand how many employees are retiring by
 ![](.png)
 
 ### Retirement-Eligible Employees by Position Title
-- To understand how many retiring employees are in each title, we created the retiring_titles table, which showed that a large majority of employees (roughly xx%) had a senior level position at time of retirement.
+- To understand how many retiring employees are in each title, we created the retiring_titles table, which showed that a large majority of employees (roughly 70%) had a senior level position at time of retirement.
 
 ![](.png)
 
